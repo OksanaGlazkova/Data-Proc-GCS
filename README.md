@@ -22,3 +22,4 @@ movies = spark.sql(‘select movieId, title, genres from movie’) - загру�
 movies.show() - посмотрели результат:
 
 ![image](https://user-images.githubusercontent.com/85709710/180517446-42cd5c75-b7e7-456e-9780-5bbf1f5487b0.png)
+
