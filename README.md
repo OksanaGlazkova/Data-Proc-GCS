@@ -1,7 +1,7 @@
 # Data-Proc-GCS
 
 
-Взяла наугад таблицу и загрузила для ДЗ в bigquery
+Загрузила таблицу для ДЗ в bigquery
 
 И выполнила команды в SSH консоли Dataproc:
 pyspark --jars=gs://spark-lib/bigquery/spark-bigquery-latest_2.12.jar -запуск spark с библиотекой bigquery
